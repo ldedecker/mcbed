@@ -1,0 +1,6 @@
+*.js
+*.js.map
+*.d.ts
+!/publish.js
+!/server.js
+node_modules
